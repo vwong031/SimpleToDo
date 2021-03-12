@@ -1,3 +1,3 @@
 # SimpleToDo
 
-A simple to do list created on Android Studio
+A simple to do list created on Android Studio with CodePath
