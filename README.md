@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-file:///Users/valeriewong1/Desktop/SimpleToDo.gif
+https://imgur.com/NxTNxtF
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
