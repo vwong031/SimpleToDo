@@ -27,10 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/NxTNxtF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bvQLoOZ" data-context="false" ><a href="//imgur.com/a/bvQLoOZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src='[Imgur](https://imgur.com/NxTNxtF)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,11 +35,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:**
+**Answer:** The Android app development platform is cool! I've never done anything like this before, so it was definitely a new and enlightening experience. I can't wait to learn more!
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:**
+**Answer:** I think the purpose of the Adapter is literally in its name. It is meant to adapt or modify things. It's important for that reason. If you need a change made, that's what it will do. The purpose of the 'convertView' in the 'getView' is, again like the name says, to change the way something is seen on the app. The names are descriptive to make coding a bit easier to understand.
 
 ## Notes
 
